@@ -1,0 +1,5 @@
+{
+    "access_token": "oauth:xxxxxxxxxxxxx",
+    "prefix": "!",
+    "initial_channels": ["xxxxxx"]
+}
